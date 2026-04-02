@@ -1,0 +1,41 @@
+# Copy to the PUBLIC staging repo (e.g. hx-static-buffer) as:
+#   .github/workflows/clear-canva-staging.yml
+# Adjust STAGING_DIR below to match the folder you publish to GitHub Pages
+# (must be the same folder CANVA_BOOK_BASE_URL points at).
+
+name: Clear Canva staging
+
+on:
+  workflow_dispatch:
+  # Optional: repository_dispatch from your machine with a PAT
+  # repository_dispatch:
+  #   types: [clear-canva-staging]
+
+jobs:
+  clear:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      STAGING_DIR: staging/current
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Remove manifest and PNGs (keep .gitkeep)
+        run: |
+          set -e
+          mkdir -p "$STAGING_DIR"
+          find "$STAGING_DIR" -mindepth 1 -maxdepth 1 ! -name '.gitkeep' -exec rm -rf {} +
+          touch "$STAGING_DIR/.gitkeep"
+
+      - name: Commit and push
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "chore: clear Canva staging assets"
+            git push
+          fi
