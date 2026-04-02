@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-29T23:44:57.878Z",
-  "manifestUrl": "/assets/book/book.manifest.json",
-  "assetUrlPrefix": "/assets/book",
+  "generatedAt": "2026-04-02T22:16:35.141Z",
+  "manifestUrl": "",
+  "assetUrlPrefix": "",
   "pages": [
     {
       "page": 1,
@@ -38,6 +38,806 @@
       "storyText": "",
       "imageSlots": {
         "full_bleed_image": "page_04_spire_wide.png"
+      }
+    },
+    {
+      "page": 5,
+      "layoutId": "Story-Right",
+      "storyText": "Chapter 1: The Call of the Spire",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "neon_divider.png",
+        "icon_asset": "icon_ignis_head.png"
+      }
+    },
+    {
+      "page": 6,
+      "layoutId": "Story-Right",
+      "storyText": "The sky above the Obsidian Spire wasn’t dark; it was a crystal-clear swirl of electric indigo and deep violet. High above the glass-smooth peaks, Ignis caught a thermal of warm, neon-charged air.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_06_spot_A.png"
+      }
+    },
+    {
+      "page": 7,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_07_spot_B.png"
+      }
+    },
+    {
+      "page": 8,
+      "layoutId": "Story-Right",
+      "storyText": "He snapped his wings wide—vibrant, translucent membranes of orange light that stretched exactly two and a half times the width of his athletic, obsidian-skinned body.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_08_spot_A.png"
+      }
+    },
+    {
+      "page": 9,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "page_09_diagram.png"
+      }
+    },
+    {
+      "page": 10,
+      "layoutId": "Story-Right",
+      "storyText": "He wasn't just flying; he was locked into a \"Tactical Hover,\" a high-tier skill he’d mastered upon reaching Level 2.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_10_spot_A.png"
+      }
+    },
+    {
+      "page": 11,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_skill_hover.png"
+      }
+    },
+    {
+      "page": 12,
+      "layoutId": "Story-Right",
+      "storyText": "Ignis glanced at his chest. Nestled in his leather utility harness, a hexagonal blue crystal pulsed with a rhythmic, steady beat.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_12_spot_A.png"
+      }
+    },
+    {
+      "page": 13,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_13_tracker_3d.png"
+      }
+    },
+    {
+      "page": 14,
+      "layoutId": "Story-Right",
+      "storyText": "This was his Level Tracker, a magical display projected into his world. It glowed with a soft internal light, showing his XP bar—his Experience Points—was 75% of the way toward Level 9.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "xp_bar_fill_75.png",
+        "icon_asset": "page_14_xp_ui.png"
+      }
+    },
+    {
+      "page": 15,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_15_xp_glow.png"
+      }
+    },
+    {
+      "page": 16,
+      "layoutId": "Story-Right",
+      "storyText": "\"See anything yet, Wing-Leader?\" a voice crackled from the jungle floor.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_16_pov_down.png"
+      }
+    },
+    {
+      "page": 17,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_17_jungle_bokeh.png"
+      }
+    },
+    {
+      "page": 18,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_18_storm_splash.png",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 19,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_19_party_wide.png"
+      }
+    },
+    {
+      "page": 20,
+      "layoutId": "Story-Right",
+      "storyText": "\"Initiative is my middle name,\" Zip squeaked. \"Actually, my middle name is 'Fastest-Dino-in-the-Fringe,' but let’s not get bogged down.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_20_zip_blur.png"
+      }
+    },
+    {
+      "page": 21,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_card_ignis.png",
+        "icon_asset": "class_icon_paladin.png"
+      }
+    },
+    {
+      "page": 22,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_card_kora.png",
+        "icon_asset": "class_icon_tank.png"
+      }
+    },
+    {
+      "page": 23,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_card_zip.png",
+        "icon_asset": "class_icon_rogue.png"
+      }
+    },
+    {
+      "page": 24,
+      "layoutId": "Story-Right",
+      "storyText": "Chapter 2: The Logic of the Labyrinth",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "neon_divider.png",
+        "icon_asset": "icon_bridge_node.png"
+      }
+    },
+    {
+      "page": 25,
+      "layoutId": "Story-Right",
+      "storyText": "The entrance to the Neon Fringe was a massive archway of crystalline rock, crackling with stray bolts of white energy. This was the \"Challenge Phase.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_25_archway.png"
+      }
+    },
+    {
+      "page": 26,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_26_crystal_zoom.png"
+      }
+    },
+    {
+      "page": 27,
+      "layoutId": "Story-Right",
+      "storyText": "To reach the corrupted System Node, they had to cross the Bridge of Binary Stones—a series of floating platforms that reacted to the \"Natural Logic\" of the realm.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_27_bridge_wide.png"
+      }
+    },
+    {
+      "page": 28,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "page_28_stone_logic.png"
+      }
+    },
+    {
+      "page": 29,
+      "layoutId": "Story-Right",
+      "storyText": "\"Analyze the patterns,\" Ignis whispered. \"The stones glow in a fixed sequence: Cyan, Cyan, Amber, Pulse. It’s an 'If/Then' puzzle.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_29_ignis_eyes.png"
+      }
+    },
+    {
+      "page": 30,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "Amber",
+        "footer_tokens": "Pulse) as glowing icons.",
+        "icon_asset": "Cyan"
+      }
+    },
+    {
+      "page": 31,
+      "layoutId": "Story-Right",
+      "storyText": "\"And if we hit a red one?\" Zip asked, bouncing on their toes with a violet flicker. \"Then the whole bridge resets,\" Ignis warned.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_31_zip_nervous.png"
+      }
+    },
+    {
+      "page": 32,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_stone_red.png"
+      }
+    },
+    {
+      "page": 33,
+      "layoutId": "Story-Right",
+      "storyText": "Kora stepped forward, her emerald horns beginning to glow. \"I’ll anchor us. My 'Heavy Tread' ability will keep the stones from tilting.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_33_kora_tread.png"
+      }
+    },
+    {
+      "page": 34,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_skill_tread.png"
+      }
+    },
+    {
+      "page": 35,
+      "layoutId": "Story-Right",
+      "storyText": "As Kora’s massive foot touched the first Cyan stone, a hum of musical energy filled the air. The stone locked into place, turning a brilliant, solid blue.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_35_cyan_lock.png"
+      }
+    },
+    {
+      "page": 36,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "page_36_success_text.png"
+      }
+    },
+    {
+      "page": 37,
+      "layoutId": "Story-Right",
+      "storyText": "Suddenly, the bridge groaned. A massive surge of energy spiked from the center of the grove. The sequence glitched.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_37_glitch_static.png"
+      }
+    },
+    {
+      "page": 38,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_38_critical_ui.png"
+      }
+    },
+    {
+      "page": 39,
+      "layoutId": "Story-Right",
+      "storyText": "\"The system is crashing!\" Ignis shouted. \"Kora, the bridge is losing its Buff! It's losing its strength! We need a new strategy!\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_39_panic_pose.png"
+      }
+    },
+    {
+      "page": 40,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_buff_broken.png"
+      }
+    },
+    {
+      "page": 41,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_41_zip_multi_dash.png",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 42,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_42_bridge_gold.png"
+      }
+    },
+    {
+      "page": 43,
+      "layoutId": "Story-Right",
+      "storyText": "\"Nice work, Team,\" Ignis said. \"Quest Log updated. We’ve reached the Node.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_43_quest_log.png"
+      }
+    },
+    {
+      "page": 44,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_44_party_bump.png"
+      }
+    },
+    {
+      "page": 45,
+      "layoutId": "Story-Right",
+      "storyText": "Chapter 3: The Shadow-Stalker Encounter",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "neon_divider.png",
+        "icon_asset": "icon_monster_stalker.png"
+      }
+    },
+    {
+      "page": 46,
+      "layoutId": "Story-Right",
+      "storyText": "The System Node was a magnificent structure—a towering tree of silver metal and glowing fiber-optic vines. But the vines were pulsing a jagged, angry crimson.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_46_node_corrupt.png"
+      }
+    },
+    {
+      "page": 47,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_47_vines_zoom.png"
+      }
+    },
+    {
+      "page": 48,
+      "layoutId": "Story-Right",
+      "storyText": "Standing at the base of the tree was the source of the corruption: a Shadow-Stalker. It was a massive dinosaur made of dark, flickering smoke and glowing \"data-shards.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_48_stalker_reveal.png"
+      }
+    },
+    {
+      "page": 49,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "page_49_claw_detail.png"
+      }
+    },
+    {
+      "page": 50,
+      "layoutId": "Story-Right",
+      "storyText": "The Shadow-Stalker let out a digital roar that sounded like a thousand computer chimes at once. It swiped a claw of flickering red light.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_50_roar_visual.png"
+      }
+    },
+    {
+      "page": 51,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_51_shield_hit.png"
+      }
+    },
+    {
+      "page": 52,
+      "layoutId": "Story-Right",
+      "storyText": "\"Combat Mode: Engaged!\" Ignis shouted. \"Kora, take the Aggro! Keep its attention on your shield!\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_52_combat_ui.png"
+      }
+    },
+    {
+      "page": 53,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_aggro_meter.png"
+      }
+    },
+    {
+      "page": 54,
+      "layoutId": "Story-Right",
+      "storyText": "\"Already on it!\" Kora roared. She planted her feet, and a massive, translucent emerald dome erupted from her horns. \"Shield is at eighty percent!\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_54_kora_dome.png"
+      }
+    },
+    {
+      "page": 55,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_55_shield_bar.png"
+      }
+    },
+    {
+      "page": 56,
+      "layoutId": "Story-Right",
+      "storyText": "Zip became a violet streak, circling the Shadow-Stalker so fast the creature couldn't keep up. \"Hey, over here, you oversized screensaver!\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_56_zip_vortex.png"
+      }
+    },
+    {
+      "page": 57,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_57_stalker_dizzy.png"
+      }
+    },
+    {
+      "page": 58,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "trailing gold light.",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 59,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_59_impact_splash.png"
+      }
+    },
+    {
+      "page": 60,
+      "layoutId": "Story-Right",
+      "storyText": "The red light turned to gold. The smoke cleared, and the shards smoothed out into beautiful, floating hexagonal particles.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_60_dissolve.png"
+      }
+    },
+    {
+      "page": 61,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_61_node_healed.png"
+      }
+    },
+    {
+      "page": 62,
+      "layoutId": "Story-Right",
+      "storyText": "Chapter 4: The Level-Up Spark",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "neon_divider.png",
+        "icon_asset": "icon_level_9.png"
+      }
+    },
+    {
+      "page": 63,
+      "layoutId": "Story-Right",
+      "storyText": "Kora let out a long breath, her emerald horns dimming to a soft, comforting glow. \"Status report?\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_63_kora_rest.png"
+      }
+    },
+    {
+      "page": 64,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_64_zip_rest.png"
+      }
+    },
+    {
+      "page": 65,
+      "layoutId": "Story-Right",
+      "storyText": "The System Node began to pulse with a rhythmic, golden light. A shower of tiny, glowing sparks began to fall from the silver branches.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_65_gold_snow.png"
+      }
+    },
+    {
+      "page": 66,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_66_spark_zoom.png"
+      }
+    },
+    {
+      "page": 67,
+      "layoutId": "Story-Right",
+      "storyText": "One of the largest sparks drifted toward Ignis. As it touched his chest crystal, a warm, tingling sensation spread through his body.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_67_ignis_glow.png"
+      }
+    },
+    {
+      "page": 68,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_68_level_up_ui.png"
+      }
+    },
+    {
+      "page": 69,
+      "layoutId": "Story-Right",
+      "storyText": "\"Level Up!\" Zip cheered. \"I just unlocked a new skill! 'Phase-Shift'! I can move through walls now! Well... thin walls. Probably.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_69_zip_phase.png"
+      }
+    },
+    {
+      "page": 70,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_skill_phase.png"
+      }
+    },
+    {
+      "page": 71,
+      "layoutId": "Story-Right",
+      "storyText": "Ignis looked at his wings. They were laced with new, golden veins of energy. \"New Skill: Sovereign Aura,\" he announced.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_71_wing_evolve.png"
+      }
+    },
+    {
+      "page": 72,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "icon_skill_aura.png"
+      }
+    },
+    {
+      "page": 73,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_73_horizon_splash.png",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 74,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_74_party_ready.png"
+      }
+    },
+    {
+      "page": 75,
+      "layoutId": "Story-Right",
+      "storyText": "\"The Quest Log isn't empty yet,\" Ignis said. \"Ready for the next encounter?\" Zip blurred in a circle. \"Born ready!\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png",
+        "icon_asset": "page_75_next_quest.png"
+      }
+    },
+    {
+      "page": 76,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "icon_asset": "page_76_ignis_flyoff.png"
+      }
+    },
+    {
+      "page": 77,
+      "layoutId": "Backmatter",
+      "storyText": "Welcome to the Party, Wing-Leader! Navigating the Neon Fringe requires more than just speed—it requires Tactical Logic.",
+      "imageSlots": {
+        "main_visual_asset": "page_77_tactical_bg.png",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 78,
+      "layoutId": "Backmatter",
+      "storyText": "1. THE EXPLORATION PHASE: Keep your eyes on the environment. Color is information. Cyan is stable, Red is a Glitch.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 79,
+      "layoutId": "Backmatter",
+      "storyText": "2. THE CHALLENGE PHASE: Use \"If/Then\" thinking. If we follow the pattern, then the path stays solid.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 80,
+      "layoutId": "Backmatter",
+      "storyText": "3. THE ENCOUNTER PHASE: Every party needs balance. The Tank takes Aggro, the Rogue provides Utility, the Paladin leads.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 81,
+      "layoutId": "Backmatter",
+      "storyText": "4. THE REWARD PHASE: Check your Level Tracker! Growth is about unlocking new ways to help your friends.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 82,
+      "layoutId": "Backmatter",
+      "storyText": "ENTRY 01: THE SHADOW-STALKER \\nCLASSIFICATION: Corrupted System (Class-S Glitch) \\nHABITAT: Areas surrounding un-synced System Nodes.",
+      "imageSlots": {
+        "main_visual_asset": "page_82_bestiary_stalker.png",
+        "footer_tokens": "hud_border.png"
+      }
+    },
+    {
+      "page": 83,
+      "layoutId": "Backmatter",
+      "storyText": "VISUAL MARKERS: Flickering smoke body, red data-shard claws, digital roar. BEHAVIORAL DATA: Shadow-Stalkers are not natural predators; they are \"Misaligned Instincts.\"",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 84,
+      "layoutId": "Backmatter",
+      "storyText": "TACTICAL ADVICE: Use a Tank to hold Aggro while a Scout identifies the glowing Core. A Paladin must use a Radiant Strike to restore integrity.",
+      "imageSlots": {
+        "main_visual_asset": "bg_obsidian_texture.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 85,
+      "layoutId": "Backmatter",
+      "storyText": "The creator of Ignis: The Neon Wing is a lifelong adventurer who believes that every problem is just a puzzle waiting for the right party to solve it.",
+      "imageSlots": {
+        "main_visual_asset": "bg_neon_jungle.png",
+        "footer_tokens": "ui_plate_bg.png"
+      }
+    },
+    {
+      "page": 86,
+      "layoutId": "Backmatter",
+      "storyText": "THE ADVENTURE HAS JUST BEGUN! LOOK FOR THE NEXT QUEST: IGNIS: THE GLITCH ARCHIPELAGO.",
+      "imageSlots": {
+        "main_visual_asset": "page_86_teaser.png",
+        "footer_tokens": "neon_divider.png"
+      }
+    },
+    {
+      "page": 87,
+      "layoutId": "Story-Right",
+      "storyText": "IGNIS: THE NEON WING",
+      "imageSlots": {
+        "main_visual_asset": "page_87_final_splash.png",
+        "icon_asset": "page_87_final_splash.png"
+      }
+    },
+    {
+      "page": 88,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 96,
+      "layoutId": "Back-Cover",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "page_96_backcover.png",
+        "logo_overlay": "page_96_backcover.png"
       }
     }
   ]
