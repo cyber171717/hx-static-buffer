@@ -284,7 +284,6 @@
       "storyText": "No text.",
       "imageSlots": {
         "main_visual_asset": "Amber",
-        "footer_tokens": "Pulse) as glowing icons.",
         "icon_asset": "Cyan"
       }
     },
@@ -550,7 +549,6 @@
       "layoutId": "Full-Bleed-Splash",
       "storyText": "",
       "imageSlots": {
-        "full_bleed_image": "trailing gold light.",
         "footer_tokens": "hud_border.png"
       }
     },
