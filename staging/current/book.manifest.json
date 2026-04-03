@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-03T16:34:16.702Z",
+  "generatedAt": "2026-04-03T16:59:12.020Z",
   "manifestUrl": "",
   "assetUrlPrefix": "",
   "pages": [
@@ -24,12 +24,11 @@
     },
     {
       "page": 3,
-      "layoutId": "Story-Right",
+      "layoutId": "Backmatter",
       "storyText": "Chapter 1: The Call of the Spire ... 5 \\nChapter 2: The Logic of the Labyrinth ... 29 \\nChapter 3: The Shadow-Stalker Encounter ... 53 \\nChapter 4: The Level-Up Spark ... 77 \\nSupplements ... 91",
       "imageSlots": {
         "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "icon_bullet_neon.png"
+        "footer_tokens": "hud_border.png"
       }
     },
     {
@@ -823,6 +822,76 @@
     },
     {
       "page": 88,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 89,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 90,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 91,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 92,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 93,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 94,
+      "layoutId": "Story-Right",
+      "storyText": "No text.",
+      "imageSlots": {
+        "main_visual_asset": "bg_grid_ui.png",
+        "footer_tokens": "hud_border.png",
+        "icon_asset": "bg_grid_ui.png"
+      }
+    },
+    {
+      "page": 95,
       "layoutId": "Story-Right",
       "storyText": "No text.",
       "imageSlots": {
