@@ -283,8 +283,7 @@
       "layoutId": "Story-Right",
       "storyText": "No text.",
       "imageSlots": {
-        "main_visual_asset": "Amber",
-        "icon_asset": "Cyan"
+        "main_visual_asset": "Amber"
       }
     },
     {
