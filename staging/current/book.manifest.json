@@ -271,7 +271,7 @@
     {
       "page": 29,
       "layoutId": "Story-Right",
-      "storyText": "\"Analyze the patterns,\" Ignis whispered. \"The stones glow in a fixed sequence: Cyan, Cyan, Amber, Pulse. It’s an 'If/Then' puzzle.\"",
+      "storyText": "USING ALTERNATIVE TEXT",
       "imageSlots": {
         "main_visual_asset": "bg_obsidian_texture.png",
         "footer_tokens": "ui_plate_bg.png",
