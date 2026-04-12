@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-12T18:02:17.549Z",
+  "generatedAt": "2026-04-12T18:28:31.919Z",
   "manifestUrl": "",
   "assetUrlPrefix": "",
   "pages": [
@@ -10,8 +10,8 @@
       "storyText": "",
       "imageSlots": {
         "main_visual_asset": "cover_hero.png",
-        "logo_overlay": "cover_hero.png,logo_emberflight.png,footer_title.png",
-        "footer_tokens": "logo_emberflight.png,footer_title.png"
+        "logo_overlay": "logo_emberflight.png",
+        "footer_tokens": "footer_title.png"
       },
       "disabledSlots": [
         "none"
@@ -135,8 +135,8 @@
       "storyText": "Whenever Ember paced, her belly glowed. It was a brilliant, neon fiery orange. It looked exactly like a campfire snapping against the pitch-black night, casting a warm, glowing halo on the stones around her. \n\nRight now, as she paced in circles, tiny neon orange sparks puffed from her rounded snout with every anxious exhale. \n\nPop. Fizz. Pop.",
       "imageSlots": {
         "main_visual_asset": "page_6_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene1.png",
-        "icon_asset": "page_6_spot.png,icon_ember.png,footer_scene1.png"
+        "footer_tokens": "footer_scene1.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -179,8 +179,8 @@
       "storyText": "He looked like a walking, breathing hill of soft, earthy green foliage. He was massive. He was at least twice as tall and three times as wide as Ember. \n\nBut his silhouette was entirely round and soft. There wasn't a sharp edge on him. \n\n\"I’m not wearing a trench, Bramble,\" Ember said. Her voice was a high-pitched squeak. \n\nShe reached up and adjusted the oversized leather aviator cap strapped to her head. \"I’m just… calibrating my leg muscles. For the mission.\"",
       "imageSlots": {
         "main_visual_asset": "page_8_spot.png",
-        "footer_tokens": "icon_bramble.png,footer_scene1.png",
-        "icon_asset": "page_8_spot.png,icon_bramble.png,footer_scene1.png"
+        "footer_tokens": "footer_scene1.png",
+        "icon_asset": "icon_bramble.png"
       },
       "disabledSlots": [
         "none",
@@ -268,8 +268,8 @@
       "storyText": "The most unusual thing about Pip wasn't their glowing gills. It wasn't even the oversized, floppy purple wizard’s hat that constantly slipped down over their eyes. \n\nIt was their hands. \n\nPip had four glowing cyan hands, but no arms. The hands simply floated in the air around them, detached and moving with minds of their own.",
       "imageSlots": {
         "main_visual_asset": "page_12_spot.png",
-        "footer_tokens": "icon_pip.png,footer_scene1.png",
-        "icon_asset": "page_12_spot.png,icon_pip.png,footer_scene1.png"
+        "footer_tokens": "footer_scene1.png",
+        "icon_asset": "icon_pip.png"
       },
       "disabledSlots": [
         "none",
@@ -375,8 +375,8 @@
       "storyText": "Deep down, she knew the truth. Even if she weren't terrified of heights, these wings probably wouldn't carry her very far. They were built for short, frantic glides, not majestic soaring. \n\nShe reached up and touched the thick-lensed goggles resting on her forehead, right above her aviator cap. She never put the goggles over her eyes unless it was an absolute emergency.",
       "imageSlots": {
         "main_visual_asset": "page_17_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene1.png",
-        "icon_asset": "page_17_spot.png,icon_ember.png,footer_scene1.png"
+        "footer_tokens": "footer_scene1.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -534,8 +534,8 @@
       "storyText": "\"Exactly,\" Ember nodded. \"And according to the rumors at the tavern, the Compass was last seen deep inside the Glimmering Caves. It’s being hoarded by a creature known only as the Grumble-Toad.\" \n\nBramble frowned. His mossy eyebrows furrowed. \"A toad that grumbles. That sounds… mildly unpleasant.\"",
       "imageSlots": {
         "main_visual_asset": "page_24_spot.png",
-        "footer_tokens": "icon_toad.png,footer_scene2.png",
-        "icon_asset": "page_24_spot.png,icon_toad.png,footer_scene2.png"
+        "footer_tokens": "footer_scene2.png",
+        "icon_asset": "icon_toad.png"
       },
       "disabledSlots": [
         "none",
@@ -599,8 +599,8 @@
       "storyText": "Pip zipped down, landing perfectly on the brim of Ember’s aviator cap. Two of Pip’s floating hands patted Ember’s cheeks. The other two hands gave her double thumbs-up. \n\n\"And if you fall, I’ll just cast a bouncy-bubble spell and you’ll bounce right back up!\" Pip chimed happily. \"Boing! Boing!\"",
       "imageSlots": {
         "main_visual_asset": "page_27_spot.png",
-        "footer_tokens": "icon_pip.png,footer_scene2.png",
-        "icon_asset": "page_27_spot.png,icon_pip.png,footer_scene2.png"
+        "footer_tokens": "footer_scene2.png",
+        "icon_asset": "icon_pip.png"
       },
       "disabledSlots": [
         "none",
@@ -758,8 +758,8 @@
       "storyText": "Pip zipped above them, acting as a magical lantern. Their cyan aura lit up the darker corners of the cave. \n\n\"Are we there yet?\" Pip asked, doing a loop-the-loop. \n\n\"Patience, Pip,\" Bramble rumbled. \"A good quest is like a good nap. It cannot be rushed.\"",
       "imageSlots": {
         "main_visual_asset": "page_34_spot.png",
-        "footer_tokens": "icon_pip.png,footer_scene3.png",
-        "icon_asset": "page_34_spot.png,icon_pip.png,footer_scene3.png"
+        "footer_tokens": "footer_scene3.png",
+        "icon_asset": "icon_pip.png"
       },
       "disabledSlots": [
         "none",
@@ -823,8 +823,8 @@
       "storyText": "Ember’s heart began to hammer against her ribs. Her breathing grew shallow. She looked down at the void, and the world seemed to tilt. The glowing river below looked a million miles away. \n\nPop. Pop. Fizz. \n\nA flurry of anxious orange sparks erupted from her snout.",
       "imageSlots": {
         "main_visual_asset": "page_37_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene3.png",
-        "icon_asset": "page_37_spot.png,icon_ember.png,footer_scene3.png"
+        "footer_tokens": "footer_scene3.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -888,8 +888,8 @@
       "storyText": "Pip floated over, their floppy hat tilted to the side. One of their detached hands scratched their chin. \"Hmm. I could try to throw you?\" \n\n\"Absolutely not!\" Ember gasped. \n\n\"What if I cast a spell to make you lighter than air?\" Pip suggested, glowing brighter with excitement.",
       "imageSlots": {
         "main_visual_asset": "page_40_spot.png",
-        "footer_tokens": "icon_pip.png,footer_scene3.png",
-        "icon_asset": "page_40_spot.png,icon_pip.png,footer_scene3.png"
+        "footer_tokens": "footer_scene3.png",
+        "icon_asset": "icon_pip.png"
       },
       "disabledSlots": [
         "none",
@@ -1058,8 +1058,8 @@
       "storyText": "Ember crept forward. She looked at Bramble’s back. It was wide, flat, and covered in thick, soft moss. It didn't look like a scary bridge. It looked like a very long, very comfortable rug. \n\nTaking a deep breath, Ember stepped onto his leg. It was sturdy. She didn't look down at the void. She just looked at the earthy greens and browns of her best friend’s back.",
       "imageSlots": {
         "main_visual_asset": "page_48_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene3.png",
-        "icon_asset": "page_48_spot.png,icon_ember.png,footer_scene3.png"
+        "footer_tokens": "footer_scene3.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -1280,8 +1280,8 @@
       "storyText": "Grumble-grumble-grumble... HOOOOOONK. \n\nThe yellow nose flared brightly, lighting up the cavern, then dimmed as the toad exhaled. \n\n\"It’s kind of cute,\" Pip whispered, floating closer. \"In a gross, slimy, giant sort of way.\"",
       "imageSlots": {
         "main_visual_asset": "page_58_spot.png",
-        "footer_tokens": "icon_toad.png,footer_scene4.png",
-        "icon_asset": "page_58_spot.png,icon_toad.png,footer_scene4.png"
+        "footer_tokens": "footer_scene4.png",
+        "icon_asset": "icon_toad.png"
       },
       "disabledSlots": [
         "none",
@@ -1345,8 +1345,8 @@
       "storyText": "Ember nodded slowly. \"Good idea. Bramble, check your inventory. What do we have that glows and weighs exactly as much as a magical compass?\" \n\nBramble reached into his pouches. He pulled out a wooden block. He pulled out a half-eaten sandwich. He pulled out a rock. \n\n\"I have a rock,\" Bramble offered.",
       "imageSlots": {
         "main_visual_asset": "page_61_spot.png",
-        "footer_tokens": "icon_bramble.png,footer_scene4.png",
-        "icon_asset": "page_61_spot.png,icon_bramble.png,footer_scene4.png"
+        "footer_tokens": "footer_scene4.png",
+        "icon_asset": "icon_bramble.png"
       },
       "disabledSlots": [
         "none",
@@ -1497,8 +1497,8 @@
       "storyText": "The Grumble-Toad let out a deafening, wet croak that shook the cavern walls. It reared back on its stubby legs, its massive belly jiggling, and swatted a giant, webbed hand at Pip. \n\nPip zipped backward, dodging the clumsy swipe. \"Yikes! Grumpy! Very grumpy!\"",
       "imageSlots": {
         "main_visual_asset": "page_68_spot.png",
-        "footer_tokens": "icon_toad.png,footer_scene4.png",
-        "icon_asset": "page_68_spot.png,icon_toad.png,footer_scene4.png"
+        "footer_tokens": "footer_scene4.png",
+        "icon_asset": "icon_toad.png"
       },
       "disabledSlots": [
         "none",
@@ -1562,8 +1562,8 @@
       "storyText": "The toad blinked, confused by the giant, soft wall of moss that had suddenly appeared. It let out an angry croak and headbutted Bramble’s stomach. \n\nBaloop. \n\nThe toad bounced off Bramble’s soft, spongy belly and fell backward onto its rump. It looked incredibly bewildered. It didn't hurt Bramble at all, but it made the toad even angrier.",
       "imageSlots": {
         "main_visual_asset": "page_71_spot.png",
-        "footer_tokens": "icon_bramble.png,footer_scene4.png",
-        "icon_asset": "page_71_spot.png,icon_bramble.png,footer_scene4.png"
+        "footer_tokens": "footer_scene4.png",
+        "icon_asset": "icon_bramble.png"
       },
       "disabledSlots": [
         "none",
@@ -1648,8 +1648,8 @@
       "storyText": "She reached up with trembling claws. She grabbed the thick-lensed aviator goggles resting on her forehead. With a sharp snap, she pulled them down over her oversized amber eyes. \n\nThe world tinted slightly yellow through the glass. The goggles were her safety blanket. They meant she was ready. \n\nShe didn't need to fly gracefully. She just needed to get up there.",
       "imageSlots": {
         "main_visual_asset": "page_75_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene4.png",
-        "icon_asset": "page_75_spot.png,icon_ember.png,footer_scene4.png"
+        "footer_tokens": "footer_scene4.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -1828,8 +1828,8 @@
       "storyText": "She slammed into the cavern wall. Her claws scrabbled frantically against the dark charcoal stone. \n\nFor a terrifying second, she started to slide backward. \n\nNo! she thought.",
       "imageSlots": {
         "main_visual_asset": "page_83_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene5.png",
-        "icon_asset": "page_83_spot.png,icon_ember.png,footer_scene5.png"
+        "footer_tokens": "footer_scene5.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -1956,8 +1956,8 @@
       "storyText": "It let out a confused, dizzy croak, stumbled backward, and tripped over its own stubby feet. \n\nWith a massive CRASH, the toad fell backward into its pile of glowing loot. \n\nA giant, purple mushroom cap tumbled down. It landed perfectly over the toad’s head like a bowl.",
       "imageSlots": {
         "main_visual_asset": "page_89_spot.png",
-        "footer_tokens": "icon_toad.png,footer_scene5.png",
-        "icon_asset": "page_89_spot.png,icon_toad.png,footer_scene5.png"
+        "footer_tokens": "footer_scene5.png",
+        "icon_asset": "icon_toad.png"
       },
       "disabledSlots": [
         "none",
@@ -2042,8 +2042,8 @@
       "storyText": "She landed squarely in the center of Bramble’s chest. She sank deep into the soft, springy moss. It was like falling into a giant marshmallow. \n\n\"Safe,\" Bramble announced. \n\nPip zipped over, cheering wildly. \"Ten out of ten! Perfect form! The spark-explosion was magnificent!\"",
       "imageSlots": {
         "main_visual_asset": "page_93_spot.png",
-        "footer_tokens": "icon_ember.png,footer_scene5.png",
-        "icon_asset": "page_93_spot.png,icon_ember.png,footer_scene5.png"
+        "footer_tokens": "footer_scene5.png",
+        "icon_asset": "icon_ember.png"
       },
       "disabledSlots": [
         "none",
@@ -2138,8 +2138,8 @@
       "storyText": "Ember set the Whispering Compass down on a flat, dark stone. \n\nIt was beautiful. The silver casing was etched with ancient runes. The center wasn't a magnetic needle, but a swirling pool of blue magical energy. \n\n\"So,\" Pip said, hovering upside down and poking the compass with one floating hand. \"How does it work? Does it whisper directions? 'Turn left at the giant stalagmite'?\"",
       "imageSlots": {
         "main_visual_asset": "page_97_spot.png",
-        "footer_tokens": "icon_compass.png,footer_scene6.png",
-        "icon_asset": "page_97_spot.png,icon_compass.png,footer_scene6.png"
+        "footer_tokens": "footer_scene6.png",
+        "icon_asset": "icon_compass.png"
       },
       "disabledSlots": [
         "none",
@@ -2266,8 +2266,8 @@
       "storyText": "Pop. Fizz. A tiny orange spark escaped her snout. \n\nBramble placed a heavy, reassuring hand on her shoulder. \"It is a long journey,\" the moss-golem rumbled. \"But we do not have to climb the mountain today.\" \n\nEmber looked at Bramble. She looked at Pip, who was already trying to catch the glowing light in their floating hands.",
       "imageSlots": {
         "main_visual_asset": "page_103_spot.png",
-        "footer_tokens": "icon_bramble.png,footer_scene6.png",
-        "icon_asset": "page_103_spot.png,icon_bramble.png,footer_scene6.png"
+        "footer_tokens": "footer_scene6.png",
+        "icon_asset": "icon_bramble.png"
       },
       "disabledSlots": [
         "none",
@@ -2520,7 +2520,7 @@
       "storyText": "Join Ember, Bramble, and Pip as they venture into the Glimmering Caves! But finding the Whispering Compass won't be easy when a giant Grumble-Toad stands in the way!",
       "imageSlots": {
         "main_visual_asset": "back_cover_art.png",
-        "logo_overlay": "back_cover_art.png,logo_emberflight.png"
+        "logo_overlay": "logo_emberflight.png"
       },
       "disabledSlots": [
         "none"
