@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-04T19:21:05.860Z",
+  "generatedAt": "2026-04-12T18:02:17.549Z",
   "manifestUrl": "",
   "assetUrlPrefix": "",
   "pages": [
@@ -9,904 +9,2540 @@
       "layoutId": "Title-Hero",
       "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "page_01_hero_ignis.png",
-        "logo_overlay": "page_01_logo.png",
-        "footer_tokens": "neon_divider.png"
+        "main_visual_asset": "cover_hero.png",
+        "logo_overlay": "cover_hero.png,logo_emberflight.png,footer_title.png",
+        "footer_tokens": "logo_emberflight.png,footer_title.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "titleText": "The Quest for the Whispering Compass",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 2,
       "layoutId": "Copyright",
-      "storyText": "Copyright © 2024 by Neon Wing Publishing. All rights reserved. No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without written permission from the publisher. Important: This book offers ideas and routines only. It is not medical, psychological, or educational advice. Readers are encouraged to consult their own professionals for health or safety decisions. For more resources, lore updates, and character reveals, visit the official command center at https://ignisneonwing.com. Explore the entire collection of adventures at the central library: www.books-library.com.",
-      "imageSlots": {
-        "background_texture": "bg_obsidian_texture.png"
+      "storyText": "Copyright © 2024 by Emberflight Publishing \nAll rights reserved. \n\nNo part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.\n\nThis book offers ideas and routines only, is not medical, psychological, or educational advice, and encourages readers to consult their own professionals for health or safety decisions. \n\nMore resources: \nVisit the official series hub at https://emberflight-adventure.com \nDiscover our complete collection library at www.books-library.com\n\nFirst Edition\nPrinted in the magical realm of imagination.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 3,
       "layoutId": "Backmatter",
-      "storyText": "Chapter 1: The Call of the Spire ... 5 \\nChapter 2: The Logic of the Labyrinth ... 29 \\nChapter 3: The Shadow-Stalker Encounter ... 53 \\nChapter 4: The Level-Up Spark ... 77 \\nSupplements ... 91",
+      "storyText": "Chapter 1: Sparks in the Dark\nChapter 2: The Whispering Compass\nChapter 3: The Bioluminescent Bridge\nChapter 4: The Hoarder's Slumber\nChapter 5: The Controlled Fall\nChapter 6: The Map to the Sky",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png"
+        "main_visual_asset": "toc_hero.png",
+        "footer_tokens": "footer_toc.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 4,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
+      "layoutId": "Chapter-Opener",
+      "storyText": "Sparks in the Dark",
       "imageSlots": {
-        "full_bleed_image": "page_04_spire_wide.png"
+        "chapter_icon": "icon_ch1.png",
+        "footer_tokens": "footer_ch1.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 1",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 5,
       "layoutId": "Story-Right",
-      "storyText": "Chapter 1: The Call of the Spire",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "neon_divider.png",
-        "icon_asset": "icon_ignis_head.png"
+      "storyText": "Three steps left. Turn. \n\nThree steps right. Turn. \n\nEmber’s claws clicked a frantic, rhythmic beat against the smooth obsidian floor. She was a dragon, technically speaking. But if you asked her, she felt more like a very nervous gargoyle. \n\nHer scales were a matte, pitch-black that completely absorbed the cavern's shadows. In the dark, she was almost invisible—except for her underbelly.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 6,
       "layoutId": "Story-Right",
-      "storyText": "The sky above the Obsidian Spire wasn’t dark; it was a crystal-clear swirl of electric indigo and deep violet. High above the glass-smooth peaks, Ignis caught a thermal of warm, neon-charged air.",
+      "storyText": "Whenever Ember paced, her belly glowed. It was a brilliant, neon fiery orange. It looked exactly like a campfire snapping against the pitch-black night, casting a warm, glowing halo on the stones around her. \n\nRight now, as she paced in circles, tiny neon orange sparks puffed from her rounded snout with every anxious exhale. \n\nPop. Fizz. Pop.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_06_spot_A.png"
+        "main_visual_asset": "page_6_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene1.png",
+        "icon_asset": "page_6_spot.png,icon_ember.png,footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 7,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_07_spot_B.png"
+      "storyText": "\"Ember, you are wearing a trench in the stone,\" a deep, rumbling voice echoed. \n\nEmber stopped pacing. She looked up, her oversized amber eyes wide with nervous energy. \n\nStanding—or rather, looming—beside her was Bramble. Bramble was a moss-golem mixed with a bear.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 8,
       "layoutId": "Story-Right",
-      "storyText": "He snapped his wings wide—vibrant, translucent membranes of orange light that stretched exactly two and a half times the width of his athletic, obsidian-skinned body.",
+      "storyText": "He looked like a walking, breathing hill of soft, earthy green foliage. He was massive. He was at least twice as tall and three times as wide as Ember. \n\nBut his silhouette was entirely round and soft. There wasn't a sharp edge on him. \n\n\"I’m not wearing a trench, Bramble,\" Ember said. Her voice was a high-pitched squeak. \n\nShe reached up and adjusted the oversized leather aviator cap strapped to her head. \"I’m just… calibrating my leg muscles. For the mission.\"",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_08_spot_A.png"
+        "main_visual_asset": "page_8_spot.png",
+        "footer_tokens": "icon_bramble.png,footer_scene1.png",
+        "icon_asset": "page_8_spot.png,icon_bramble.png,footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 9,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "page_09_diagram.png"
+      "storyText": "Bramble’s tiny, gentle black-dot eyes crinkled. The thick beard of hanging grey moss around his jaw shifted, naturally forming a placid, reassuring smile. \n\nHe moved slowly and deliberately. As he shifted his weight, his mismatched, oversized adventurer’s belt clinked. The belt was strung across his massive chest and covered in leather pouches of all shapes and sizes. \n\n\"Calibrating,\" Bramble repeated. His voice sounded like grinding pebbles wrapped in velvet. \"Of course.\" \n\nZzzzzzt! A flash of bioluminescent cyan and magenta zipped past Ember’s nose. She crossed her eyes to follow it.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 10,
-      "layoutId": "Story-Right",
-      "storyText": "He wasn't just flying; he was locked into a \"Tactical Hover,\" a high-tier skill he’d mastered upon reaching Level 2.",
+      "layoutId": "Story-Left",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_10_spot_A.png"
+        "panel_A": "page_10_panel_A.png",
+        "panel_B": "page_10_panel_B.png",
+        "panel_C": "page_10_panel_C.png",
+        "panel_D": "page_10_panel_D.png",
+        "footer_tokens": "footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 11,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_skill_hover.png"
+      "storyText": "\"Calibrating is boring! We should be exploring! Or poking things! Let’s poke that glowing rock!\" \n\nHovering upside down in the air above them was Pip. \n\nPip was an aquatic astral sprite. They looked like a tiny, floating axolotl made of neon light. A faint, magical aura pulsed around their magenta body, highlighting their frilly, glowing external gills and casting a cool cyan outline on Ember's black scales. \n\nPip’s face was locked in a perpetual, cheeky grin. Their massive, pupil-less cyan eyes were wide with hyperactive delight.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 12,
       "layoutId": "Story-Right",
-      "storyText": "Ignis glanced at his chest. Nestled in his leather utility harness, a hexagonal blue crystal pulsed with a rhythmic, steady beat.",
+      "storyText": "The most unusual thing about Pip wasn't their glowing gills. It wasn't even the oversized, floppy purple wizard’s hat that constantly slipped down over their eyes. \n\nIt was their hands. \n\nPip had four glowing cyan hands, but no arms. The hands simply floated in the air around them, detached and moving with minds of their own.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_12_spot_A.png"
+        "main_visual_asset": "page_12_spot.png",
+        "footer_tokens": "icon_pip.png,footer_scene1.png",
+        "icon_asset": "page_12_spot.png,icon_pip.png,footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 13,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_13_tracker_3d.png"
+      "storyText": "Right now, one floating hand adjusted the purple wizard hat. Another hand pointed excitedly down the dark tunnel. The remaining two hands poked a patch of glowing purple moss. \n\n\"Pip, please don't poke the cave flora,\" Ember said. Her neon orange tail-tip twitched. \"The Dungeoneer's Guide specifically says that unidentified glowing plants can cause spontaneous sneezing, levitation, or both.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 14,
       "layoutId": "Story-Right",
-      "storyText": "This was his Level Tracker, a magical display projected into his world. It glowed with a soft internal light, showing his XP bar—his Experience Points—was 75% of the way toward Level 9.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "xp_bar_fill_75.png",
-        "icon_asset": "page_14_xp_ui.png"
+      "storyText": "\"But it’s so shiny!\" Pip chimed. Their voice sounded like a handful of silver bells tumbling down a staircase. \n\nTo prove their point, Pip blew a glowing cyan bubble from their mouth. It drifted over and popped against the moss. \n\nEmber let out a long breath. A slightly larger orange spark popped from her nostrils.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 15,
-      "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_15_xp_glow.png"
+        "full_bleed_image": "page_15_splash.png",
+        "footer_tokens": "footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 16,
       "layoutId": "Story-Right",
-      "storyText": "\"See anything yet, Wing-Leader?\" a voice crackled from the jungle floor.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_16_pov_down.png"
+      "storyText": "She loved her friends. She really did. But being the tactical leader of an adventuring party was stressful. Especially when your party consisted of a gentle giant who moved at the speed of a sleepy glacier, a magical sprite with zero impulse control, and a dragon who was terrified of the sky. \n\nEmber looked at her wings. They were small—a little too small for her rounded body.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 17,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "Deep down, she knew the truth. Even if she weren't terrified of heights, these wings probably wouldn't carry her very far. They were built for short, frantic glides, not majestic soaring. \n\nShe reached up and touched the thick-lensed goggles resting on her forehead, right above her aviator cap. She never put the goggles over her eyes unless it was an absolute emergency.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_17_jungle_bokeh.png"
+        "main_visual_asset": "page_17_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene1.png",
+        "icon_asset": "page_17_spot.png,icon_ember.png,footer_scene1.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 18,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_18_storm_splash.png",
-        "footer_tokens": "hud_border.png"
+      "layoutId": "Story-Right",
+      "storyText": "They were her safety blanket. They were a promise to herself that one day, she would be brave enough to use them for real. \n\n\"Okay, team,\" Ember said, puffing out her neon orange chest. \"Let’s review the quest. Bramble, the map?\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 19,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_19_party_wide.png"
+      "layoutId": "Story-Right",
+      "storyText": "Bramble patted his massive chest. He reached into a large pouch on his belt and rummaged around. He pulled out a half-eaten glowing mushroom, looked at it confusedly, and put it back. \n\nThen, he reached into the fluffy foliage on his own shoulder and pulled out a rolled-up piece of parchment. \n\n\"Here we are,\" Bramble rumbled gently, unrolling the map.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 20,
-      "layoutId": "Story-Right",
-      "storyText": "\"Initiative is my middle name,\" Zip squeaked. \"Actually, my middle name is 'Fastest-Dino-in-the-Fringe,' but let’s not get bogged down.\"",
+      "layoutId": "Chapter-Opener",
+      "storyText": "The Whispering Compass",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_20_zip_blur.png"
+        "chapter_icon": "icon_ch2.png",
+        "footer_tokens": "footer_ch2.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 2",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 21,
-      "layoutId": "Stat-Card-UI",
-      "storyText": "",
-      "imageSlots": {
-        "stat_card_image": "stat_card_ignis.png",
-        "icon_asset": "class_icon_paladin.png"
+      "layoutId": "Story-Right",
+      "storyText": "The map was beautiful. It was drawn in glowing silver ink on dark blue parchment. It showed the sprawling, mysterious realm they called home. \n\nTo the south lay the Shimmering Thicket. To the east were the Crystal Canyons. But Ember’s claw pointed to a blank, uncharted space at the very top of the parchment. It was hidden by swirling silver clouds.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 22,
-      "layoutId": "Stat-Card-UI",
+      "layoutId": "Full-Bleed-Splash",
       "storyText": "",
       "imageSlots": {
-        "stat_card_image": "stat_card_kora.png",
-        "icon_asset": "class_icon_tank.png"
+        "full_bleed_image": "page_22_splash.png",
+        "footer_tokens": "footer_scene2.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 23,
-      "layoutId": "Stat-Card-UI",
-      "storyText": "",
-      "imageSlots": {
-        "stat_card_image": "stat_card_zip.png",
-        "icon_asset": "class_icon_rogue.png"
+      "layoutId": "Story-Right",
+      "storyText": "\"The Sky-Citadel of the First Drakes,\" Ember said. Her voice was filled with awe, but also a deep, unsettling dread. \"The legends say it holds the history of all dragonkind. Maybe even secrets about… well, wings like mine.\" \n\n\"And to find the Citadel,\" Pip chimed in, \"we need the Whispering Compass!\" \n\nPip zipped in circles around Bramble’s head. Their four floating hands did a synchronized wave, leaving trails of cyan particles in the air.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 24,
       "layoutId": "Story-Right",
-      "storyText": "Chapter 2: The Logic of the Labyrinth",
+      "storyText": "\"Exactly,\" Ember nodded. \"And according to the rumors at the tavern, the Compass was last seen deep inside the Glimmering Caves. It’s being hoarded by a creature known only as the Grumble-Toad.\" \n\nBramble frowned. His mossy eyebrows furrowed. \"A toad that grumbles. That sounds… mildly unpleasant.\"",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "neon_divider.png",
-        "icon_asset": "icon_bridge_node.png"
+        "main_visual_asset": "page_24_spot.png",
+        "footer_tokens": "icon_toad.png,footer_scene2.png",
+        "icon_asset": "page_24_spot.png,icon_toad.png,footer_scene2.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 25,
       "layoutId": "Story-Right",
-      "storyText": "The entrance to the Neon Fringe was a massive archway of crystalline rock, crackling with stray bolts of white energy. This was the \"Challenge Phase.\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_25_archway.png"
+      "storyText": "\"It’s a boss-level encounter,\" Ember said. Her pacing started up again. Three steps left. Turn. Three steps right. Turn. \"It’s huge. It’s grumpy. It hoards magical artifacts. And worst of all, its lair is located at the top of the Echoing Chasm.\" \n\nThe word top hung in the air. \n\nEmber’s glowing underbelly flickered nervously. Her claws clicked faster on the obsidian. \n\nTop. That meant high up. That meant elevation. That meant looking down.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 26,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_26_crystal_zoom.png"
+      "storyText": "Suddenly, a massive, soft hand gently blocked her path. \n\nBramble had lowered himself to one knee. He brought his large, flat nose level with Ember’s face. He smelled like fresh rain and pine needles. \n\n\"Ember,\" Bramble said softly. \"We are a team. My feet are firmly on the ground. I am very heavy. I will not let you float away.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 27,
       "layoutId": "Story-Right",
-      "storyText": "To reach the corrupted System Node, they had to cross the Bridge of Binary Stones—a series of floating platforms that reacted to the \"Natural Logic\" of the realm.",
+      "storyText": "Pip zipped down, landing perfectly on the brim of Ember’s aviator cap. Two of Pip’s floating hands patted Ember’s cheeks. The other two hands gave her double thumbs-up. \n\n\"And if you fall, I’ll just cast a bouncy-bubble spell and you’ll bounce right back up!\" Pip chimed happily. \"Boing! Boing!\"",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_27_bridge_wide.png"
+        "main_visual_asset": "page_27_spot.png",
+        "footer_tokens": "icon_pip.png,footer_scene2.png",
+        "icon_asset": "page_27_spot.png,icon_pip.png,footer_scene2.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 28,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "page_28_stone_logic.png"
+      "storyText": "Ember offered a wide, nervous grimace. Slowly, it melted into a genuine, slightly wobbly smile. She let out a soft sigh, and the orange sparks stopped popping from her snout. \n\n\"Right,\" Ember said, adjusting her cap. \"Complementary strengths. I have the tactical plans. Pip has the magical chaos. And Bramble has the gravity.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 29,
       "layoutId": "Story-Right",
-      "storyText": "\"Analyze the patterns,\" Ignis whispered. \"The stones glow in a fixed sequence: Cyan, Cyan, Amber, Pulse. It’s an 'If/Then' puzzle.\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_29_ignis_eyes.png"
+      "storyText": "\"I do enjoy gravity,\" Bramble agreed. He stood back up to his towering height. \n\n\"Then let’s move out,\" Ember commanded. She pointed her claw down the dark, twisting tunnel of the cavern. \"To the Echoing Chasm! And remember standard dungeon protocol. Keep your eyes peeled for traps. Don’t make loud noises. And Pip—for the love of magic—do not poke the Grumble-Toad.\" \n\nPip’s wizard hat slipped over their eyes. \"I make no promises!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 30,
-      "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "layoutId": "Chapter-Opener",
+      "storyText": "The Bioluminescent Bridge",
       "imageSlots": {
-        "main_visual_asset": "icon_seq_amber.png",
-        "footer_tokens": "icon_seq_pulse.png",
-        "icon_asset": "icon_seq_cyan.png"
+        "chapter_icon": "icon_ch3.png",
+        "footer_tokens": "footer_ch3.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 3",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 31,
       "layoutId": "Story-Right",
-      "storyText": "\"And if we hit a red one?\" Zip asked, bouncing on their toes with a violet flicker. \"Then the whole bridge resets,\" Ignis warned.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_31_zip_nervous.png"
+      "storyText": "The Glimmering Caves were a masterpiece of shadows and light. \n\nThe walls were made of dark charcoal stone, smooth and cold to the touch. But running through the stone were veins of glowing, pulsing minerals. Bright magenta crystals sprouted from the ceiling like chandeliers, casting a soft, hazy light on the trio as they walked.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 32,
-      "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_stone_red.png"
+        "full_bleed_image": "page_32_splash.png",
+        "footer_tokens": "footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 33,
       "layoutId": "Story-Right",
-      "storyText": "Kora stepped forward, her emerald horns beginning to glow. \"I’ll anchor us. My 'Heavy Tread' ability will keep the stones from tilting.\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_33_kora_tread.png"
+      "storyText": "The contrast was dazzling. Everywhere Ember looked, deep, rich darks were broken by sudden, wondrous bursts of neon color. \n\nBramble led the way. His massive bulk easily pushed aside giant, glowing fern fronds that blocked the path. \n\nEmber stayed close behind him. Her neon orange underbelly reflected off the polished stone floor, lighting her way.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 34,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "Pip zipped above them, acting as a magical lantern. Their cyan aura lit up the darker corners of the cave. \n\n\"Are we there yet?\" Pip asked, doing a loop-the-loop. \n\n\"Patience, Pip,\" Bramble rumbled. \"A good quest is like a good nap. It cannot be rushed.\"",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_skill_tread.png"
+        "main_visual_asset": "page_34_spot.png",
+        "footer_tokens": "icon_pip.png,footer_scene3.png",
+        "icon_asset": "page_34_spot.png,icon_pip.png,footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 35,
       "layoutId": "Story-Right",
-      "storyText": "As Kora’s massive foot touched the first Cyan stone, a hum of musical energy filled the air. The stone locked into place, turning a brilliant, solid blue.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_35_cyan_lock.png"
+      "storyText": "Suddenly, the tunnel opened up. The walls fell away, revealing a massive, staggering cavern. \n\nEmber slammed on the brakes. Her claws screeched against the stone. \n\nBefore them lay the Echoing Chasm. \n\nIt was a sheer drop into a pitch-black void. Far below, a river of glowing blue sludge sluggishly wound its way through the dark.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 36,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "page_36_success_text.png"
+      "storyText": "The gap between their ledge and the other side was at least twenty feet wide. \n\nAnd on the other side, carved high into the cavern wall, was a jagged opening. It glowed with a sickly, yellow-green light. \n\nThe lair of the Grumble-Toad.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 37,
       "layoutId": "Story-Right",
-      "storyText": "Suddenly, the bridge groaned. A massive surge of energy spiked from the center of the grove. The sequence glitched.",
+      "storyText": "Ember’s heart began to hammer against her ribs. Her breathing grew shallow. She looked down at the void, and the world seemed to tilt. The glowing river below looked a million miles away. \n\nPop. Pop. Fizz. \n\nA flurry of anxious orange sparks erupted from her snout.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_37_glitch_static.png"
+        "main_visual_asset": "page_37_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene3.png",
+        "icon_asset": "page_37_spot.png,icon_ember.png,footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 38,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_38_critical_ui.png"
+      "storyText": "She immediately dropped her belly low to the ground. She pressed her matte black scales flat against the cold stone. \n\n\"Nope,\" Ember squeaked. Her amber eyes were wide with panic. \"Nope, nope, nope. We’re turning back. The Sky-Citadel is probably drafty anyway. Who needs a Whispering Compass? I have a perfectly good sense of direction. South is that way. Let’s go south.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 39,
       "layoutId": "Story-Right",
-      "storyText": "\"The system is crashing!\" Ignis shouted. \"Kora, the bridge is losing its Buff! It's losing its strength! We need a new strategy!\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_39_panic_pose.png"
+      "storyText": "Bramble sat down heavily beside her. His earthy bulk provided a comforting wall between Ember and the edge of the cliff. \n\n\"It is a rather large gap,\" Bramble observed mildly. \n\n\"It’s a canyon! It’s an abyss!\" Ember rambled. Her tail wrapped tightly around her own leg. \"I can’t fly across that, Bramble! Look at my wings! They’re decorative! They’re the wings of a penguin who made a bad wish!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 40,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "Pip floated over, their floppy hat tilted to the side. One of their detached hands scratched their chin. \"Hmm. I could try to throw you?\" \n\n\"Absolutely not!\" Ember gasped. \n\n\"What if I cast a spell to make you lighter than air?\" Pip suggested, glowing brighter with excitement.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_buff_broken.png"
+        "main_visual_asset": "page_40_spot.png",
+        "footer_tokens": "icon_pip.png,footer_scene3.png",
+        "icon_asset": "page_40_spot.png,icon_pip.png,footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 41,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_41_zip_multi_dash.png",
-        "footer_tokens": "hud_border.png"
+      "layoutId": "Story-Right",
+      "storyText": "\"The last time you did that, I floated upside down for three hours and got stuck in a stalactite!\" Ember protested. \n\nBramble reached into his pouches. \"Perhaps I have a rope.\" He pulled out a wooden spoon, a handful of glowing acorns, and a surprisingly clean handkerchief. \"I do not have a rope.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 42,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_42_bridge_gold.png"
+      "layoutId": "Story-Right",
+      "storyText": "Ember pressed her face into the stone. She felt defeated. This was the first real obstacle of their quest, and her phobia was ruining it. \n\nShe was the leader. She was supposed to be brave. But the fear of the empty air beneath her was a heavy, cold weight in her chest.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 43,
       "layoutId": "Story-Right",
-      "storyText": "\"Nice work, Team,\" Ignis said. \"Quest Log updated. We’ve reached the Node.\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_43_quest_log.png"
+      "storyText": "Bramble gently patted her back with a hand the size of a dinner plate. It was incredibly soft, like being pet by a pile of warm laundry. \n\n\"Ember,\" Bramble said. \"You do not need to fly. You just need to cross.\" \n\nEmber turned her head, looking up at him. \"How?\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 44,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_44_party_bump.png"
+      "storyText": "Bramble looked at the gap. He looked at the other side. Then, he stood up. He walked to the very edge of the chasm. \n\n\"Bramble, be careful!\" Ember warned, her sparks flaring.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 45,
-      "layoutId": "Story-Right",
-      "storyText": "Chapter 3: The Shadow-Stalker Encounter",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "neon_divider.png",
-        "icon_asset": "icon_monster_stalker.png"
+        "full_bleed_image": "page_45_splash.png",
+        "footer_tokens": "footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 46,
       "layoutId": "Story-Right",
-      "storyText": "The System Node was a magnificent structure—a towering tree of silver metal and glowing fiber-optic vines. But the vines were pulsing a jagged, angry crimson.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_46_node_corrupt.png"
+      "storyText": "The moss-golem didn't hesitate. He leaned forward, falling like a massive, gentle tree. \n\nTHUD. \n\nHis heavy boots remained planted on their side of the cliff, while his massive hands slammed down onto the opposite ledge. His long, thick body spanned the entire twenty-foot gap. \n\nHe had turned himself into a living, mossy bridge.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 47,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_47_vines_zoom.png"
+      "storyText": "\"The path is ready,\" Bramble’s voice echoed from across the chasm. It was slightly muffled because his face was pressed against the stone. \n\nEmber stared. \n\n\"Go on!\" Pip cheered, their four hands clapping. \"It’s a Bramble-bridge! A Bridge-ble!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 48,
       "layoutId": "Story-Right",
-      "storyText": "Standing at the base of the tree was the source of the corruption: a Shadow-Stalker. It was a massive dinosaur made of dark, flickering smoke and glowing \"data-shards.\"",
+      "storyText": "Ember crept forward. She looked at Bramble’s back. It was wide, flat, and covered in thick, soft moss. It didn't look like a scary bridge. It looked like a very long, very comfortable rug. \n\nTaking a deep breath, Ember stepped onto his leg. It was sturdy. She didn't look down at the void. She just looked at the earthy greens and browns of her best friend’s back.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_48_stalker_reveal.png"
+        "main_visual_asset": "page_48_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene3.png",
+        "icon_asset": "page_48_spot.png,icon_ember.png,footer_scene3.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 49,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "page_49_claw_detail.png"
+      "storyText": "\"I’m doing it,\" Ember whispered to herself. \"I’m not flying. I’m just walking on a very tall floor.\" \n\nShe crawled forward, keeping her center of gravity low. Step. Step. Step. \n\nThe moss was soft beneath her claws. Whenever she felt a spike of panic, she focused on the gentle, rhythmic rising and falling of Bramble’s breathing.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 50,
       "layoutId": "Story-Right",
-      "storyText": "The Shadow-Stalker let out a digital roar that sounded like a thousand computer chimes at once. It swiped a claw of flickering red light.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_50_roar_visual.png"
+      "storyText": "Before she knew it, her front paws touched the cold stone of the opposite ledge. She scrambled off Bramble’s back and collapsed onto solid ground. \n\nShe let out a massive sigh of relief. A bright, joyous burst of neon orange sparks shot from her mouth. \n\nBramble slowly pulled himself up, dusting off his knees. \"A successful crossing,\" he noted happily.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 51,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_51_shield_hit.png"
+      "storyText": "\"You did it, Ember!\" Pip chimed, showering her in magical cyan bubbles. \n\nEmber sat up. She adjusted her aviator cap with a newfound sense of pride. She hadn't conquered her fear of heights completely, but she had faced it. With a little help. \n\n\"Thanks, Bramble,\" she smiled. \n\n\"Anytime,\" he rumbled.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 52,
       "layoutId": "Story-Right",
-      "storyText": "\"Combat Mode: Engaged!\" Ignis shouted. \"Kora, take the Aggro! Keep its attention on your shield!\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_52_combat_ui.png"
+      "storyText": "Ember turned to face the glowing, yellow-green entrance of the lair. The air here smelled like old socks and stale swamp water. \n\n\"Alright, team,\" Ember whispered, her feisty determination returning. \"Stealth mode activated. We go in, we find the Compass, and we get out before the Grumble-Toad even knows we’re there.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 53,
-      "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "layoutId": "Chapter-Opener",
+      "storyText": "The Hoarder's Slumber",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_aggro_meter.png"
+        "chapter_icon": "icon_ch4.png",
+        "footer_tokens": "footer_ch4.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 4",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 54,
       "layoutId": "Story-Right",
-      "storyText": "\"Already on it!\" Kora roared. She planted her feet, and a massive, translucent emerald dome erupted from her horns. \"Shield is at eighty percent!\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_54_kora_dome.png"
+      "storyText": "The inside of the lair was massive. It was lit by piles of glowing junk. \n\nThe Grumble-Toad, it seemed, was a collector of anything that shined. There were piles of glowing crystals, bright mushroom caps, shiny beetle shells, and magical trinkets discarded by clumsy adventurers. \n\nThe neon orange of Ember’s belly cast long, dramatic shadows against the dark charcoal walls as they crept inside.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 55,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_55_shield_bar.png"
+      "storyText": "\"Wow,\" Pip whispered loudly. \"Look at all the shiny!\" \n\n\"Shh!\" Ember hissed, clapping her front paws over her mouth. \n\nFrom the center of the room came a sound like a boulder grinding against a chalkboard, followed by a wet, bubbling snort. \n\nThere, sleeping atop a massive pile of glowing loot, was the Grumble-Toad.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 56,
-      "layoutId": "Story-Right",
-      "storyText": "Zip became a violet streak, circling the Shadow-Stalker so fast the creature couldn't keep up. \"Hey, over here, you oversized screensaver!\"",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_56_zip_vortex.png"
+        "full_bleed_image": "page_56_splash.png",
+        "footer_tokens": "footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 57,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_57_stalker_dizzy.png"
+      "storyText": "It was not a terrifying monster. In fact, it looked incredibly goofy. \n\nIt was the size of a small house, with warty, dark-green skin and a belly that bulged like a water balloon. Its legs were short and stubby, way too small for its giant body. \n\nBut its most defining feature was its nose. The Grumble-Toad had a giant, bulbous nose that glowed with a bright, pulsing yellow light every time it snored.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 58,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
+      "layoutId": "Story-Right",
+      "storyText": "Grumble-grumble-grumble... HOOOOOONK. \n\nThe yellow nose flared brightly, lighting up the cavern, then dimmed as the toad exhaled. \n\n\"It’s kind of cute,\" Pip whispered, floating closer. \"In a gross, slimy, giant sort of way.\"",
       "imageSlots": {
-        "full_bleed_image": "page_58_radiant_strike.png",
-        "footer_tokens": "hud_border.png"
+        "main_visual_asset": "page_58_spot.png",
+        "footer_tokens": "icon_toad.png,footer_scene4.png",
+        "icon_asset": "page_58_spot.png,icon_toad.png,footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 59,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_59_impact_splash.png"
+      "layoutId": "Story-Right",
+      "storyText": "\"Stay focused,\" Ember whispered back. Her eyes scanned the pile of treasure beneath the sleeping beast. \n\nAnd then, she saw it. \n\nTucked under the Grumble-Toad’s massive, flabby chin was a circular object made of polished silver. A faint, glowing blue light pulsed from its center. Even from a distance, Ember could hear a soft, musical whispering coming from it. \n\nThe Whispering Compass.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 60,
       "layoutId": "Story-Right",
-      "storyText": "The red light turned to gold. The smoke cleared, and the shards smoothed out into beautiful, floating hexagonal particles.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_60_dissolve.png"
+      "storyText": "\"There it is,\" Ember pointed. \"But it’s right under its chin. If we pull it out, the toad will wake up.\" \n\nBramble scratched his mossy beard. \"Perhaps we can replace it with something of equal weight and shininess? A classic adventurer’s maneuver.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 61,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "Ember nodded slowly. \"Good idea. Bramble, check your inventory. What do we have that glows and weighs exactly as much as a magical compass?\" \n\nBramble reached into his pouches. He pulled out a wooden block. He pulled out a half-eaten sandwich. He pulled out a rock. \n\n\"I have a rock,\" Bramble offered.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_61_node_healed.png"
+        "main_visual_asset": "page_61_spot.png",
+        "footer_tokens": "icon_bramble.png,footer_scene4.png",
+        "icon_asset": "page_61_spot.png,icon_bramble.png,footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 62,
       "layoutId": "Story-Right",
-      "storyText": "Chapter 4: The Level-Up Spark",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "neon_divider.png",
-        "icon_asset": "icon_level_9.png"
+      "storyText": "\"Is it a glowing rock?\" Ember asked. \n\n\"No. It is a standard rock.\" \n\nEmber sighed. Tiny sparks popped from her nose. \"Okay. Plan B. Pip, can you use your floating hands to gently lift the toad’s chin while I grab the compass?\" \n\nPip saluted with two hands. The other two hands cracked their magical knuckles. \"Operation Chin-Lift is a go!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 63,
       "layoutId": "Story-Right",
-      "storyText": "Kora let out a long breath, her emerald horns dimming to a soft, comforting glow. \"Status report?\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_63_kora_rest.png"
+      "storyText": "Ember crept forward. Her belly scraped the stone to stay as low as possible. \n\nThe Grumble-Toad’s snoring was deafening up close. Grumble-grumble-grumble... HOOOOOONK. \n\nThe yellow light from its nose washed over Ember, turning her black scales a sickly green for a brief second.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 64,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_64_zip_rest.png"
+      "storyText": "Pip floated up to the toad’s face. Carefully, delicately, Pip’s four cyan hands slid under the toad’s warty chin. With a magical grunt, Pip pushed upward. \n\nThe toad’s head lifted an inch. Then two inches. \n\nEmber darted forward. She reached her claws out, her eyes fixed on the silver compass. She was so close. Her claws brushed the cool metal. \n\nAnd then, disaster struck.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 65,
-      "layoutId": "Story-Right",
-      "storyText": "The System Node began to pulse with a rhythmic, golden light. A shower of tiny, glowing sparks began to fall from the silver branches.",
+      "layoutId": "Story-Left",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_65_gold_snow.png"
+        "panel_A": "page_65_panel_A.png",
+        "panel_B": "page_65_panel_B.png",
+        "panel_C": "page_65_panel_C.png",
+        "panel_D": "page_65_panel_D.png",
+        "footer_tokens": "footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 66,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_66_spark_zoom.png"
+      "storyText": "One of Pip’s floating hands got distracted by the pulsing yellow light of the toad’s nose. It decided it wanted to poke it. \n\nBoop. \n\nThe cyan hand poked the giant yellow nose. \n\nThe snoring stopped instantly.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 67,
       "layoutId": "Story-Right",
-      "storyText": "One of the largest sparks drifted toward Ignis. As it touched his chest crystal, a warm, tingling sensation spread through his body.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_67_ignis_glow.png"
+      "storyText": "The Grumble-Toad’s massive, yellow eyes snapped open. The pupils were horizontal, like a goat’s. They immediately locked onto the tiny, floating magenta sprite hovering in front of its face. \n\n\"Uh oh,\" Pip squeaked. \n\n\"PIIIIIP!\" Ember shrieked.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 68,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "The Grumble-Toad let out a deafening, wet croak that shook the cavern walls. It reared back on its stubby legs, its massive belly jiggling, and swatted a giant, webbed hand at Pip. \n\nPip zipped backward, dodging the clumsy swipe. \"Yikes! Grumpy! Very grumpy!\"",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_68_level_up_ui.png"
+        "main_visual_asset": "page_68_spot.png",
+        "footer_tokens": "icon_toad.png,footer_scene4.png",
+        "icon_asset": "page_68_spot.png,icon_toad.png,footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 69,
       "layoutId": "Story-Right",
-      "storyText": "\"Level Up!\" Zip cheered. \"I just unlocked a new skill! 'Phase-Shift'! I can move through walls now! Well... thin walls. Probably.\"",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_69_zip_phase.png"
+      "storyText": "The toad lumbered forward. It completely ignored Ember. It was intent on catching the glowing cyan sprite that had booped its nose. \n\nAs it moved, the pile of treasure shifted. The Whispering Compass slid down the pile. It tumbled over glowing crystals and shiny shells, until it wedged itself into a high crevice in the cavern wall, about fifteen feet off the ground.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 70,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_skill_phase.png"
+      "storyText": "\"The Compass!\" Ember cried. \n\n\"I will handle the amphibian!\" Bramble announced. \n\nThe massive moss-golem stepped in front of the Grumble-Toad, holding his arms out wide. \"Excuse me, sir! Please calm down!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 71,
       "layoutId": "Story-Right",
-      "storyText": "Ignis looked at his wings. They were laced with new, golden veins of energy. \"New Skill: Sovereign Aura,\" he announced.",
+      "storyText": "The toad blinked, confused by the giant, soft wall of moss that had suddenly appeared. It let out an angry croak and headbutted Bramble’s stomach. \n\nBaloop. \n\nThe toad bounced off Bramble’s soft, spongy belly and fell backward onto its rump. It looked incredibly bewildered. It didn't hurt Bramble at all, but it made the toad even angrier.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_71_wing_evolve.png"
+        "main_visual_asset": "page_71_spot.png",
+        "footer_tokens": "icon_bramble.png,footer_scene4.png",
+        "icon_asset": "page_71_spot.png,icon_bramble.png,footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 72,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "icon_skill_aura.png"
+      "storyText": "\"Ember!\" Pip yelled, flying in frantic circles to distract the toad. \"Get the Compass! We’ll keep Mr. Warts busy!\" \n\nEmber looked up. The Compass was wedged in the wall, fifteen feet up. \n\nFifteen feet. \n\nEmber’s breath hitched. She began to pace in a tight circle. Three steps left. Turn. Three steps right. Turn.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 73,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_73_horizon_splash.png",
-        "footer_tokens": "hud_border.png"
+      "layoutId": "Story-Right",
+      "storyText": "Her belly glowed a brilliant, frantic neon orange. Sparks flew from her snout like a fireworks finale. \n\nShe couldn't reach it. She couldn't fly up there. Her wings were too small. She was too heavy. She was a grounded dragon. \n\nThe Grumble-Toad let out another massive croak, preparing to charge Bramble again. Its giant yellow nose glowed ominously.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 74,
-      "layoutId": "Full-Bleed-Splash",
-      "storyText": "",
-      "imageSlots": {
-        "full_bleed_image": "page_74_party_ready.png"
+      "layoutId": "Story-Right",
+      "storyText": "Ember looked at her friends. Bramble was standing his ground, ready to act as a soft shield. Pip was risking getting swatted to keep the beast distracted. \n\nThey were counting on her. \n\nEmber stopped pacing. She looked at her small wings. \n\n\"I am a dragon,\" she whispered to herself.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 75,
       "layoutId": "Story-Right",
-      "storyText": "\"The Quest Log isn't empty yet,\" Ignis said. \"Ready for the next encounter?\" Zip blurred in a circle. \"Born ready!\"",
+      "storyText": "She reached up with trembling claws. She grabbed the thick-lensed aviator goggles resting on her forehead. With a sharp snap, she pulled them down over her oversized amber eyes. \n\nThe world tinted slightly yellow through the glass. The goggles were her safety blanket. They meant she was ready. \n\nShe didn't need to fly gracefully. She just needed to get up there.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png",
-        "icon_asset": "page_75_next_quest.png"
+        "main_visual_asset": "page_75_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene4.png",
+        "icon_asset": "page_75_spot.png,icon_ember.png,footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 76,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "icon_asset": "page_76_ignis_flyoff.png"
+      "storyText": "\"Bramble!\" Ember yelled. \"Incoming!\" \n\nEmber charged. She sprinted toward the giant moss-golem, her claws finding traction on the polished stone. As she reached him, she didn't stop. She leaped onto his knee, scrambling up his thick, mossy leg.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 77,
-      "layoutId": "Backmatter",
-      "storyText": "Welcome to the Party, Wing-Leader! Navigating the Neon Fringe requires more than just speed—it requires Tactical Logic.",
-      "imageSlots": {
-        "main_visual_asset": "page_77_tactical_bg.png",
-        "footer_tokens": "hud_border.png"
+      "layoutId": "Story-Right",
+      "storyText": "\"Ah, a tactical ascent,\" Bramble noted calmly. He held perfectly still as Ember climbed him like a tree. \n\nEmber scrambled up his chest, reached his broad shoulder, and stood up. She was now ten feet in the air. \n\nShe looked down. Her stomach did a somersault. The ground felt terrifyingly far away. The Grumble-Toad was thrashing below her.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 78,
-      "layoutId": "Backmatter",
-      "storyText": "1. THE EXPLORATION PHASE: Keep your eyes on the environment. Color is information. Cyan is stable, Red is a Glitch.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+      "layoutId": "Story-Right",
+      "storyText": "Don't look down, she told herself. Look at the target. \n\nShe looked at the crevice. It was five feet away, slightly higher than Bramble’s shoulder. \n\nEmber took a deep breath. Her neon orange belly flared brighter than it ever had before. It lit up the entire cavern in a wash of warm, fiery light.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 79,
-      "layoutId": "Backmatter",
-      "storyText": "2. THE CHALLENGE PHASE: Use \"If/Then\" thinking. If we follow the pattern, then the path stays solid.",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+        "full_bleed_image": "page_79_splash.png",
+        "footer_tokens": "footer_scene4.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 80,
-      "layoutId": "Backmatter",
-      "storyText": "3. THE ENCOUNTER PHASE: Every party needs balance. The Tank takes Aggro, the Rogue provides Utility, the Paladin leads.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+      "layoutId": "Story-Right",
+      "storyText": "She bent her knees. She spread her small, slightly useless wings. \n\nAnd she jumped.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 81,
-      "layoutId": "Backmatter",
-      "storyText": "4. THE REWARD PHASE: Check your Level Tracker! Growth is about unlocking new ways to help your friends.",
+      "layoutId": "Chapter-Opener",
+      "storyText": "The Controlled Fall",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+        "chapter_icon": "icon_ch5.png",
+        "footer_tokens": "footer_ch5.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 5",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 82,
-      "layoutId": "Backmatter",
-      "storyText": "ENTRY 01: THE SHADOW-STALKER \\nCLASSIFICATION: Corrupted System (Class-S Glitch) \\nHABITAT: Areas surrounding un-synced System Nodes.",
-      "imageSlots": {
-        "main_visual_asset": "page_82_bestiary_stalker.png",
-        "footer_tokens": "hud_border.png"
+      "layoutId": "Story-Right",
+      "storyText": "Ember didn't soar. She didn't glide majestically through the air. \n\nShe plummeted forward with the flying grace of a falling brick. \n\nBut her tiny wings flapped furiously, buzzing like a bumblebee’s. It gave her just enough forward momentum to cross the gap.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 83,
-      "layoutId": "Backmatter",
-      "storyText": "VISUAL MARKERS: Flickering smoke body, red data-shard claws, digital roar. BEHAVIORAL DATA: Shadow-Stalkers are not natural predators; they are \"Misaligned Instincts.\"",
+      "layoutId": "Story-Right",
+      "storyText": "She slammed into the cavern wall. Her claws scrabbled frantically against the dark charcoal stone. \n\nFor a terrifying second, she started to slide backward. \n\nNo! she thought.",
       "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+        "main_visual_asset": "page_83_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene5.png",
+        "icon_asset": "page_83_spot.png,icon_ember.png,footer_scene5.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 84,
-      "layoutId": "Backmatter",
-      "storyText": "TACTICAL ADVICE: Use a Tank to hold Aggro while a Scout identifies the glowing Core. A Paladin must use a Radiant Strike to restore integrity.",
-      "imageSlots": {
-        "main_visual_asset": "bg_obsidian_texture.png",
-        "footer_tokens": "ui_plate_bg.png"
+      "layoutId": "Story-Right",
+      "storyText": "With a final, desperate surge of feisty energy, she kicked her back legs. She thrust her upper body forward. Her front paws slammed down onto the edge of the crevice. \n\nShe hung there, her back legs dangling over open air. But she was safe. \n\nRight in front of her nose was the Whispering Compass. \n\n\"Gotcha,\" Ember gasped. She grabbed the silver compass in her teeth.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 85,
-      "layoutId": "Backmatter",
-      "storyText": "The creator of Ignis: The Neon Wing is a lifelong adventurer who believes that every problem is just a puzzle waiting for the right party to solve it.",
-      "imageSlots": {
-        "main_visual_asset": "bg_neon_jungle.png",
-        "footer_tokens": "ui_plate_bg.png"
+      "layoutId": "Story-Right",
+      "storyText": "Below her, the Grumble-Toad looked up. It saw the bright neon orange glow of Ember’s belly hanging from the wall. The toad loved shiny things. And right now, Ember was the shiniest thing in the room. \n\nThe toad opened its massive mouth, preparing to leap up and snatch her. \n\n\"Uh oh,\" Ember mumbled around the compass in her mouth.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 86,
-      "layoutId": "Backmatter",
-      "storyText": "THE ADVENTURE HAS JUST BEGUN! LOOK FOR THE NEXT QUEST: IGNIS: THE GLITCH ARCHIPELAGO.",
-      "imageSlots": {
-        "main_visual_asset": "page_86_teaser.png",
-        "footer_tokens": "neon_divider.png"
+      "layoutId": "Story-Right",
+      "storyText": "She couldn't climb higher. She couldn't fly away. \n\nBut she was a dragon. \n\nEmber looked down at the toad. She took a deep breath, filling her lungs with air. She focused all her nervous energy, all her fear, and all her feistiness into her chest. \n\nShe let out a massive roar.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 87,
-      "layoutId": "Story-Right",
-      "storyText": "IGNIS: THE NEON WING",
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
       "imageSlots": {
-        "main_visual_asset": "page_87_final_splash.png",
-        "icon_asset": "page_87_final_splash.png"
+        "full_bleed_image": "page_87_splash.png",
+        "footer_tokens": "footer_scene5.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 88,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+      "storyText": "Instead of fire, a blinding, dazzling cloud of neon orange sparks erupted from her mouth. It was like a magical firework explosion. The sparks rained down, popping and fizzing in a brilliant display of light. \n\nThe Grumble-Toad was startled by the sudden explosion of bright orange sparks right above its face. It crossed its eyes.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 89,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "It let out a confused, dizzy croak, stumbled backward, and tripped over its own stubby feet. \n\nWith a massive CRASH, the toad fell backward into its pile of glowing loot. \n\nA giant, purple mushroom cap tumbled down. It landed perfectly over the toad’s head like a bowl.",
       "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+        "main_visual_asset": "page_89_spot.png",
+        "footer_tokens": "icon_toad.png,footer_scene5.png",
+        "icon_asset": "page_89_spot.png,icon_toad.png,footer_scene5.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 90,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+      "storyText": "The toad grumbled softly. It pulled the mushroom cap tighter over its head like a blanket, and instantly fell back asleep. Grumble-grumble... HOOOOOONK. \n\nEmber hung from the ledge, her chest heaving. She had done it. \n\nShe had defeated the boss. Not with violence, but with a tactical application of extreme panic-sparks.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 91,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+      "storyText": "Now, there was only one problem. She was fifteen feet in the air, hanging from a ledge, and she still couldn't fly. \n\n\"Um,\" Ember called out, her voice trembling slightly. \"A little help?\" \n\nBramble stepped forward. He positioned his massive, soft body directly beneath her. He held his arms out, creating a wide, mossy landing pad.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 92,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+      "storyText": "\"Drop, Ember,\" Bramble rumbled gently. \"I have you.\" \n\nEmber looked down. It was scary. But she trusted Bramble more than she feared gravity. \n\nShe closed her eyes behind her thick goggles, let go of the ledge, and fell. \n\nPoof.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 93,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "storyText": "She landed squarely in the center of Bramble’s chest. She sank deep into the soft, springy moss. It was like falling into a giant marshmallow. \n\n\"Safe,\" Bramble announced. \n\nPip zipped over, cheering wildly. \"Ten out of ten! Perfect form! The spark-explosion was magnificent!\"",
       "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+        "main_visual_asset": "page_93_spot.png",
+        "footer_tokens": "icon_ember.png,footer_scene5.png",
+        "icon_asset": "page_93_spot.png,icon_ember.png,footer_scene5.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 94,
       "layoutId": "Story-Right",
-      "storyText": "No text.",
-      "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+      "storyText": "Ember scrambled out of Bramble’s moss. She pulled her goggles up to rest on her forehead again. Her heart was still racing, but a massive, proud smile stretched across her rounded snout. \n\n\"We did it,\" Ember beamed. Her belly glowed with a warm, steady orange light. \"Teamwork.\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
       }
     },
     {
       "page": 95,
-      "layoutId": "Story-Right",
-      "storyText": "No text.",
+      "layoutId": "Chapter-Opener",
+      "storyText": "The Map to the Sky",
       "imageSlots": {
-        "main_visual_asset": "bg_grid_ui.png",
-        "footer_tokens": "hud_border.png",
-        "icon_asset": "bg_grid_ui.png"
+        "chapter_icon": "icon_ch6.png",
+        "footer_tokens": "footer_ch6.png"
+      },
+      "disabledSlots": [
+        "main_visual_asset"
+      ],
+      "titleText": "Chapter 6",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     },
     {
       "page": 96,
-      "layoutId": "Back-Cover",
-      "storyText": "No text.",
+      "layoutId": "Story-Right",
+      "storyText": "The trio snuck out of the lair, leaving the Grumble-Toad to sleep peacefully under its mushroom blanket. \n\nThey crossed the Bramble-bridge once more. Ember found it slightly less terrifying the second time. \n\nSoon, they found a quiet, glowing grotto in the Glimmering Caves to examine their prize.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 97,
+      "layoutId": "Story-Right",
+      "storyText": "Ember set the Whispering Compass down on a flat, dark stone. \n\nIt was beautiful. The silver casing was etched with ancient runes. The center wasn't a magnetic needle, but a swirling pool of blue magical energy. \n\n\"So,\" Pip said, hovering upside down and poking the compass with one floating hand. \"How does it work? Does it whisper directions? 'Turn left at the giant stalagmite'?\"",
       "imageSlots": {
-        "main_visual_asset": "page_96_backcover.png",
-        "logo_overlay": "page_96_backcover.png"
+        "main_visual_asset": "page_97_spot.png",
+        "footer_tokens": "icon_compass.png,footer_scene6.png",
+        "icon_asset": "page_97_spot.png,icon_compass.png,footer_scene6.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 98,
+      "layoutId": "Story-Right",
+      "storyText": "Ember reached out and gently tapped the center of the compass. \n\nInstantly, the blue energy flared. A beam of light shot upward. It projected a three-dimensional, glowing hologram map in the air above them.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 99,
+      "layoutId": "Full-Bleed-Splash",
+      "storyText": "",
+      "imageSlots": {
+        "full_bleed_image": "page_99_splash.png",
+        "footer_tokens": "footer_scene6.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 100,
+      "layoutId": "Story-Right",
+      "storyText": "The map was made of bright cyan and magenta light lines. It contrasted beautifully against the dark shadows of the cave. \n\nIt showed their world. There was the Shimmering Thicket. There were the Glimmering Caves. \n\nBut the map kept panning upward. It showed a massive mountain range, higher than anything on their old parchment map. \n\nThe Cloud-Crested Peaks.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 101,
+      "layoutId": "Story-Right",
+      "storyText": "And at the very top of the highest peak, above the clouds, a glowing symbol blinked slowly. \n\nThe Sky-Citadel of the First Drakes. \n\nEmber stared at the glowing map. The Citadel wasn't just a legend. It was real. And the Compass was showing them exactly where it was.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 102,
+      "layoutId": "Story-Right",
+      "storyText": "\"Wow,\" Pip whispered, their eyes wide with wonder. \"That’s… really high up.\" \n\nEmber swallowed hard. Her tiny wings twitched. \n\nThe Cloud-Crested Peaks. The name alone made her stomach do a nervous flip. To get there, they would have to climb higher than she had ever gone before. There would be more cliffs. More chasms. More open air.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 103,
+      "layoutId": "Story-Right",
+      "storyText": "Pop. Fizz. A tiny orange spark escaped her snout. \n\nBramble placed a heavy, reassuring hand on her shoulder. \"It is a long journey,\" the moss-golem rumbled. \"But we do not have to climb the mountain today.\" \n\nEmber looked at Bramble. She looked at Pip, who was already trying to catch the glowing light in their floating hands.",
+      "imageSlots": {
+        "main_visual_asset": "page_103_spot.png",
+        "footer_tokens": "icon_bramble.png,footer_scene6.png",
+        "icon_asset": "page_103_spot.png,icon_bramble.png,footer_scene6.png"
+      },
+      "disabledSlots": [
+        "none",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 104,
+      "layoutId": "Story-Right",
+      "storyText": "She wasn't a majestic, soaring dragon. She was a grounded, anxious, feisty gargoyle-hybrid who wore oversized aviator goggles. \n\nBut she had faced the Echoing Chasm. She had faced the Grumble-Toad. And she hadn't done it alone. \n\nEmber reached up and adjusted her leather cap. She stood a little taller. Her neon orange belly glowed bright against the dark cave.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 105,
+      "layoutId": "Story-Right",
+      "storyText": "\"You’re right, Bramble,\" Ember said. A determined smile returned to her face. \"We don't have to climb it today. But we have the Compass. We have the map.\" \n\nShe looked up at the glowing symbol of the Sky-Citadel. The mystery of her ancestors was calling to her from the clouds.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 106,
+      "layoutId": "Story-Right",
+      "storyText": "\"We’ll take it one step at a time,\" Ember said. \"And who knows? By the time we reach the top… maybe I’ll be ready to use these goggles for real.\" \n\nPip did a backflip in the air. \"Next stop: The Cloud-Crested Peaks! I hope they have glowing snow!\"",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 107,
+      "layoutId": "Story-Right",
+      "storyText": "Bramble carefully rolled up their old parchment map and tucked it into a pouch. \"I will pack extra snacks. Climbing makes one hungry.\" \n\nEmber laughed. The sound echoed happily in the cavern. The journey to the sky was just beginning, and for the first time in her life, she was actually looking forward to the climb.",
+      "imageSlots": {},
+      "disabledSlots": [
+        "footer_tokens",
+        "icon_asset",
+        "main_visual_asset",
+        "page_background"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 108,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_ember.png",
+        "icon_asset": "icon_class_tactical.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 109,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_bramble.png",
+        "icon_asset": "icon_class_shield.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 110,
+      "layoutId": "Stat-Card-UI",
+      "storyText": "",
+      "imageSlots": {
+        "stat_card_image": "stat_pip.png",
+        "icon_asset": "icon_class_magic.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 111,
+      "layoutId": "Backmatter",
+      "storyText": "THE GRUMBLE-TOAD\nSpecies: Giant Cavern Amphibian\nClass: Boss-Level Hoarder\nArmor: Warty, Dark-Green Skin\nSpecial Abilities:\n- High-Beam Snore: Its giant, bulbous nose glows with a pulsing yellow light when asleep.\n- Belly Bounce: Can knock over heavy objects with a single jiggle of its stomach.\n- Treasure Sense: Highly attracted to anything shiny, glowing, or magical.\nWeakness: Easily confused by bright lights, sudden loud noises, and giant purple mushrooms.\nLair: The Echoing Chasm, surrounded by piles of shiny rocks and stolen compasses.",
+      "imageSlots": {
+        "main_visual_asset": "guide_toad.png",
+        "footer_tokens": "footer_guide.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 112,
+      "layoutId": "Backmatter",
+      "storyText": "GLOSSARY OF THE GLIMMERING CAVES\n\nAdventuring comes with a lot of big words! If you get stuck on your quest, use this magical dictionary to light the way.\n\nAbyss (uh-BISS): A very deep, dark hole or space that seems to have no bottom. When Ember looks into the Echoing Chasm, it looks like a giant abyss!\n\nBioluminescent (BY-oh-loo-mih-NESS-ent): When a living creature makes its own glowing light. Pip is bioluminescent, which is why they glow with bright cyan and magenta colors in the dark.\n\nCalibrating (KAL-ih-bray-ting): Carefully adjusting or checking something to make sure it works perfectly. Ember likes to say she is \"calibrating\" her legs when she is actually just pacing nervously!\n\nChasm (KAZ-um): A deep crack or gap in the earth, rock, or floor. Bramble had to turn himself into a bridge so the team could cross the giant chasm.\n\nGargoyle (GAR-goyl): A stone creature often found on the roofs of old castles. Ember feels like a gargoyle because her scales are pitch-black and she prefers to stay on solid stone instead of flying.\n\nGolem (GOH-lem): A magical creature brought to life from materials like clay, stone, or in Bramble's case, soft earth and moss.\n\nLair (LARE): The secret home or resting place of a wild creature. The Grumble-Toad's lair is filled with shiny, glowing junk.\n\nObsidian (ob-SID-ee-un): A type of smooth, dark volcanic glass that looks like pitch-black stone. The floors of Ember's cave are made of shiny obsidian.\n\nPhobia (FOH-bee-uh): A very strong, overwhelming fear of something. Ember has a phobia of heights, but with teamwork, she is learning to be brave anyway!\n\nTactical (TAK-tih-kul): Carefully planned to achieve a specific goal. Ember is a tactical thinker, meaning she likes to make a safe, clever plan before charging into danger.",
+      "imageSlots": {
+        "main_visual_asset": "glossary_bg.png",
+        "footer_tokens": "footer_glossary.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 113,
+      "layoutId": "Backmatter",
+      "storyText": "Emberflight Books is a collective of storytellers, artists, and tabletop adventurers who believe that the best heroes aren't always the fearless ones—they are the ones who are terrified but take the leap anyway. \n\nInspired by the glowing colors of deep-sea creatures, the thrill of rolling a twenty-sided die, and the warm comfort of a good friend, the Emberflight team crafts stories where magic is real, monsters are usually just clumsy, and every reader has a place in the adventuring party. \n\nWhen not writing about glowing moss and whispering compasses, the creators can be found drawing maps of uncharted mountains, searching for the perfect neon orange ink, and making sure no one pokes any sleeping toads.",
+      "imageSlots": {
+        "main_visual_asset": "author_bg.png",
+        "footer_tokens": "footer_author.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 114,
+      "layoutId": "Backmatter",
+      "storyText": "Did you love exploring the Glimmering Caves with Ember, Bramble, and Pip? The adventure is just getting started! \n\nJoin our favorite grounded dragon and her brave (and sometimes chaotic) best friends as they journey further into a world of neon magic, towering monsters, and legendary treasures. With the Whispering Compass in hand, the Cloud-Crested Peaks are calling—but who knows what goofy beasts, tricky puzzles, and epic discoveries wait along the path?\n\nIn every Emberflight adventure, you will find:\n- Breathtaking, cinematic worlds where bright neon colors pop against the darkest shadows!\n- Hilarious encounters with boss monsters who are more clumsy than creepy!\n- Heartwarming proof that you don't have to be fearless to be a hero—you just need a good plan and great friends!\n\nGrab your aviator goggles, pack some extra glowing snacks, and get ready to level up. The map is expanding, and the ultimate quest to the Sky-Citadel of the First Drakes awaits!\n\nRead them all and build your ultimate adventuring party!",
+      "imageSlots": {
+        "main_visual_asset": "series_bg.png",
+        "footer_tokens": "footer_series.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      }
+    },
+    {
+      "page": 115,
+      "layoutId": "Back-Cover",
+      "storyText": "Join Ember, Bramble, and Pip as they venture into the Glimmering Caves! But finding the Whispering Compass won't be easy when a giant Grumble-Toad stands in the way!",
+      "imageSlots": {
+        "main_visual_asset": "back_cover_art.png",
+        "logo_overlay": "back_cover_art.png,logo_emberflight.png"
+      },
+      "disabledSlots": [
+        "none"
+      ],
+      "titleText": "The Quest for the Whispering Compass",
+      "textStyle": {
+        "fontSize": 18,
+        "color": "#FFFFFF",
+        "fontWeight": "normal",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "start",
+        "fontName": "Open Sans"
+      },
+      "titleTextStyle": {
+        "fontSize": 42,
+        "color": "#FF5F1F",
+        "fontWeight": "bold",
+        "fontStyle": "normal",
+        "decoration": "none",
+        "textAlign": "center",
+        "fontName": "Montserrat"
       }
     }
   ]
