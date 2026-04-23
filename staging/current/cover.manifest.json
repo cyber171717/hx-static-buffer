@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "kind": "bookfactory_cover",
+  "generatedAt": "2026-04-23T04:46:41.973956+00:00",
+  "geometryVersion": 1,
+  "elements": [
+    {
+      "type": "image",
+      "file": "cover_front.png",
+      "slot": "front",
+      "rect": {
+        "left": 0.54,
+        "top": 0.0,
+        "width": 0.46,
+        "height": 1.0
+      }
+    },
+    {
+      "type": "image",
+      "file": "cover_back.png",
+      "slot": "back",
+      "rect": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.46,
+        "height": 1.0
+      }
+    },
+    {
+      "type": "image",
+      "file": "cover_spine.png",
+      "slot": "spine",
+      "rect": {
+        "left": 0.46,
+        "top": 0.0,
+        "width": 0.08,
+        "height": 1.0
+      }
+    }
+  ]
+}
