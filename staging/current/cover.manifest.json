@@ -1,7 +1,7 @@
 {
   "version": 1,
   "kind": "bookfactory_cover",
-  "generatedAt": "2026-04-24T16:39:13.420735+00:00",
+  "generatedAt": "2026-04-24T17:05:30.139664+00:00",
   "geometryVersion": 1,
   "elements": [
     {
@@ -82,12 +82,38 @@
       "text": "Ember is a dragon with a big secret: she’s terrified of heights! To find the legendary Whispering Compass, she must lead her friends Bramble and Pip into the mysterious Glimmering Caves. This cinematic bridge book for ages 6-10 features RPG-style character stat cards and proves that true bravery is taking the leap, even when you’re scared.",
       "rect": {
         "left": 0.03,
-        "top": 0.3,
+        "top": 0.28,
         "width": 0.4,
-        "height": 0.64
+        "height": 0.48
       },
       "fontSize": 0.021,
       "textAlign": "left"
+    },
+    {
+      "type": "text",
+      "slot": "spine_title",
+      "text": "Emberflight: The Quest for the Whispering Compass",
+      "rect": {
+        "left": 0.462,
+        "top": 0.06,
+        "width": 0.076,
+        "height": 0.42
+      },
+      "fontSize": 0.016,
+      "textAlign": "center"
+    },
+    {
+      "type": "text",
+      "slot": "spine_author",
+      "text": "The Emberflight Collective",
+      "rect": {
+        "left": 0.462,
+        "top": 0.5,
+        "width": 0.076,
+        "height": 0.44
+      },
+      "fontSize": 0.013,
+      "textAlign": "center"
     }
   ]
 }
