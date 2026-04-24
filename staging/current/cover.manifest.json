@@ -1,7 +1,7 @@
 {
   "version": 1,
   "kind": "bookfactory_cover",
-  "generatedAt": "2026-04-23T04:46:41.973956+00:00",
+  "generatedAt": "2026-04-24T16:39:13.420735+00:00",
   "geometryVersion": 1,
   "elements": [
     {
@@ -36,6 +36,58 @@
         "width": 0.08,
         "height": 1.0
       }
+    },
+    {
+      "type": "text",
+      "slot": "title",
+      "text": "Emberflight: The Quest for the Whispering Compass",
+      "rect": {
+        "left": 0.56,
+        "top": 0.06,
+        "width": 0.38,
+        "height": 0.12
+      },
+      "fontSize": 0.045,
+      "textAlign": "center"
+    },
+    {
+      "type": "text",
+      "slot": "subtitle",
+      "text": "A Neon-Lit Adventure for Brave Beginners and Reluctant Flyers",
+      "rect": {
+        "left": 0.56,
+        "top": 0.17,
+        "width": 0.38,
+        "height": 0.06
+      },
+      "fontSize": 0.028,
+      "textAlign": "center"
+    },
+    {
+      "type": "text",
+      "slot": "author",
+      "text": "The Emberflight Collective",
+      "rect": {
+        "left": 0.56,
+        "top": 0.24,
+        "width": 0.38,
+        "height": 0.05
+      },
+      "fontSize": 0.026,
+      "textAlign": "center"
+    },
+    {
+      "type": "text",
+      "slot": "back_blurb",
+      "text": "Ember is a dragon with a big secret: she’s terrified of heights! To find the legendary Whispering Compass, she must lead her friends Bramble and Pip into the mysterious Glimmering Caves. This cinematic bridge book for ages 6-10 features RPG-style character stat cards and proves that true bravery is taking the leap, even when you’re scared.",
+      "rect": {
+        "left": 0.03,
+        "top": 0.3,
+        "width": 0.4,
+        "height": 0.64
+      },
+      "fontSize": 0.021,
+      "textAlign": "left"
     }
   ]
 }
