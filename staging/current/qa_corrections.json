@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "workflowStage": "qa_corrections",
+  "status": {
+    "qaPassed": false,
+    "summary": {
+      "total": 2,
+      "pending": 2,
+      "previewed": 0,
+      "appliedCanva": 0,
+      "persisted": 0,
+      "failed": 0
+    }
+  },
+  "items": [
+    {
+      "id": "fix_p4_1777172972514",
+      "page": 4,
+      "kind": "image",
+      "targetRole": "image_slot",
+      "action": "replace_image_note",
+      "find": "",
+      "replace": "",
+      "newValue": "",
+      "note": "chapter 1 icon image is not blended with the background and looks bad. need to modify/replace.",
+      "status": "pending"
+    },
+    {
+      "id": "fix_p11_1777173193947",
+      "page": 11,
+      "kind": "text",
+      "targetRole": "story",
+      "action": "replace_text_block",
+      "status": "pending",
+      "note": "I can see on page 10-11 that the text say that pip has pupil-less cyan eyes, but I have changed its eyes to be with pupils. the image on those pages does show it with black pupils, so this is a conflict between the text and image. The text needs to be modified.",
+      "find": "Pip’s face was locked in a perpetual, cheeky grin. Their massive, pupil-less cyan eyes were wide with hyperactive delight.",
+      "replace": "Pip’s face was locked in a perpetual, cheeky grin. Their massive eyes were wide with hyperactive delight."
+    }
+  ]
+}
